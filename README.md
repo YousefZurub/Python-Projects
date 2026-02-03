@@ -1,2 +1,8 @@
-# Python-Projects
-all my programs that i have written with Python
+# Python-Projects:
+
+## User Manager
+* Adds users
+* Persists data in a JSON file
+* Loads data from a JSON file
+* Displays adult users
+
